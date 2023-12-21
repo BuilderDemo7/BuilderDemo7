@@ -9,8 +9,8 @@
 # Cool guys
 1. [`Jesse`](https://github.com/Jesse2431)                      
 2. [`Fireboyd78`](https://github.com/Fireboyd78)
-# Good stuff
+# See also
 [`Driver Tools`](https://github.com/Fireboyd78/driver-tools)                                                         
-[`Zartex 2.0`](https://github.com/BuilderDemo7/Zartex2) *(BEST CHOICE)*                                                       
+[`Zartex 2.0`](https://github.com/BuilderDemo7/Zartex2)                                                       
 [`Visual Edit`](https://github.com/BuilderDemo7/VisualEdit)                                                
-             
+[`WAD Explorer`](https://github.com/BuilderDemo7/WADExplorer)             
